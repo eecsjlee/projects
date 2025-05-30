@@ -4,7 +4,7 @@
 
 ## 프로젝트 정보
 
-- **Repository**: [PlugWay Frontend](https://github.com/eecsjlee/kdt_first_project_fe)
+- **Repository**: [PlugWay](https://github.com/eecsjlee/kdt_first_project_fe)
 - **개발 기간**: 2024년 9월 ~ 2024년 10월
 - **팀 프로젝트**: KDT 과정 중 첫 번째 협업 프로젝트
 - **기술 스택**:  
@@ -34,10 +34,3 @@
 
 - [GitHub Repository](https://github.com/eecsjlee/kdt_first_project_fe)
 - [전체 프로젝트 목록으로 돌아가기](../README.md)
-
-## 향후 개선 방향
-
-- 충전소 필터링 기능 추가 (예: 급속/완속, 운영 여부)
-- 로그인 및 즐겨찾기 기능 구현
-- 실시간 충전 가능 여부 확인 기능 연동
-- Backend 및 데이터 저장 연계 기능 개발
